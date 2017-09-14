@@ -3,7 +3,6 @@ Project Directory Generator for MacOS
 
 
 ## Prerequisites
--------------
 
 - On Mac OS X, install [rails](https://gorails.com/setup/osx/10.12-sierra "Ruby on Rails").
 
