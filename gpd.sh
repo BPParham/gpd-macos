@@ -122,6 +122,7 @@ create() {
   mkdir "$HOME/GITRepositories/$DOMAIN/$ENTITY/$PROJECT/branches/feature"
   mkdir "$HOME/GITRepositories/$DOMAIN/$ENTITY/$PROJECT/branches/hotfix"
   mkdir "$HOME/GITRepositories/$DOMAIN/$ENTITY/$PROJECT/branches/release"
+  mkdir "$HOME/GITRepositories/$DOMAIN/$ENTITY/$PROJECT/branches/review"
   mkdir "$HOME/GITRepositories/$DOMAIN/$ENTITY/$PROJECT/branches/training"
   echo "Creating the tags directories!..."
   mkdir "$HOME/GITRepositories/$DOMAIN/$ENTITY/$PROJECT/tags"
